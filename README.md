@@ -6,7 +6,6 @@
 
 <img width="1344" height="768" alt="Amanda Natallie's Github" src="https://github.com/user-attachments/assets/d9b3fd18-5b94-461e-8cb4-64506b00682c" />
 
-
 </div>
 
 ---
@@ -33,22 +32,49 @@ I use AI as part of the engineering workflow — not just for autocomplete.
 
 **Claude Code · AI agents · MCP · BMAD · custom skills · automation**
 
-```text
-       💡 Problem
-          │
-          ▼
-    🧠 AI-assisted
-       exploration
-          │
-          ▼
-    🏗️ Design & code
-          │
-          ▼
-      🧪 Test
-          │
-          ▼
-     🚀 Ship & iterate
-```
+### Built at Clutch
+
+At Clutch, I went beyond using AI for code generation and built **production Claude Code skills** to turn recurring engineering workflows into reusable, guided processes.
+
+- 🧠 **5 custom Claude Code skills** built and shipped for real engineering workflows.
+- 🔎 **Codebase exploration & debugging** — using AI to trace behavior across frontend and backend code, investigate root causes, and understand unfamiliar areas of the product.
+- 🗄️ **Backend tooling** — created skills around **database querying, observability, Temporal workflows, and Temporal migrations**.
+- ⚛️ **Frontend workflows** — created reusable guidance for frontend implementation, architecture and project-specific conventions.
+- 🔌 **MCP + agentic workflows** — used connected tools and specialized agents to move from investigation → implementation → verification with less manual context switching.
+- 🧪 **AI-assisted testing & verification** — using agents to help reason about edge cases, identify affected areas and validate changes before shipping.
+
+I also worked within the broader **agentic engineering setup at Clutch**, using tools such as Claude Code, MCP and BMAD-style workflows to make AI part of the development process rather than a separate step.
+
+\`\`\`text
+             💡 Problem / Requirement
+                       │
+                       ▼
+             🔎 Explore & Understand
+            ┌──────────┴──────────┐
+            │                     │
+        Codebase              Product
+        context               context
+            │                     │
+            └──────────┬──────────┘
+                       ▼
+                🧠 AI-assisted
+             reasoning & planning
+                       │
+                       ▼
+                 🏗️ Design & Code
+                       │
+                       ▼
+                 🧪 Test & Verify
+                       │
+                       ▼
+                 🚀 Ship & Iterate
+\`\`\`
+
+### Why I use AI this way
+
+The goal isn't to generate more code.
+
+It's to **reduce the amount of repetitive context-switching required to solve a problem**, while keeping engineering decisions, validation and ownership with the developer.
 
 ---
 
