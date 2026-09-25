@@ -1,47 +1,113 @@
-# Amanda Natallie 👋
+<div align="center">
 
-### Senior Product Engineer · React · TypeScript · Next.js · NestJS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Senior+Product+Engineer;React+%7C+TypeScript+%7C+Next.js+%7C+NestJS;AI-native+%26+Agentic+Engineering;I+build+things+and+automate+the+boring+parts+%F0%9F%A4%96" alt="Typing SVG" />
 
-I build **production web applications** and love turning messy problems into clean, scalable systems.
+<br/>
 
-🧠 **AI-native development** — Claude Code · agents · MCP · BMAD  
-⚛️ **Frontend** — React · Next.js · TypeScript · Design Systems · Microfrontends  
-🛠️ **Backend** — Node.js · NestJS · REST · GraphQL · PostgreSQL  
-🧪 **Quality** — Jest · RTL · Playwright · Cypress
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
+
+</div>
 
 ---
 
-### 🚀 What I like building
+## 👩‍💻 About me
 
-```txt
-React + TypeScript
-      ↓
-Product features
-      ↓
-Scalable architecture
-      ↓
-Automated tests
-      ↓
-AI-assisted workflows 🤖
+**Senior Product Engineer** with a frontend architecture background and a growing full-stack focus.
+
+I like building products that are:
+
+⚡ **Fast** · 🧩 **Well-structured** · 🧪 **Tested** · 🤖 **AI-assisted**
+
+### 🧰 My stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,nestjs,postgres,redux,graphql,jest,playwright,tailwind,storybook" />
+</p>
+
+---
+
+## 🤖 AI-native engineering
+
+I use AI as part of the engineering workflow — not just for autocomplete.
+
+**Claude Code · AI agents · MCP · BMAD · custom skills · automation**
+
+```text
+       💡 Problem
+          │
+          ▼
+    🧠 AI-assisted
+       exploration
+          │
+          ▼
+    🏗️ Design & code
+          │
+          ▼
+      🧪 Test
+          │
+          ▼
+     🚀 Ship & iterate
 ```
 
-### ⭐ Featured work
+---
 
-| Project | What you'll find |
-| --- | --- |
-| [identity-iq](https://github.com/amanda-natallie/identity-iq) | Next.js + AI/computer vision |
-| [devices-crud](https://github.com/amanda-natallie/devices-crud) | React + TypeScript + RTK + testing |
-| [design-system](https://github.com/amanda-natallie/design-system) | React component library + Storybook |
-| [books-library-frontend](https://github.com/amanda-natallie/books-library-frontend) | React + architecture + testing |
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Identity IQ
+**Next.js · AI · Computer Vision**
+
+An experiment combining web development with computer vision and browser-based ML.
+
+</td>
+<td width="50%">
+
+### ⚛️ Devices CRUD
+**React · TypeScript · Redux Toolkit**
+
+A frontend project focused on forms, validation, state management, virtualization and automated testing.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Design System
+**React · Styled Components · Storybook**
+
+A reusable component library built with a focus on consistency and developer experience.
+
+</td>
+<td width="50%">
+
+### 🏗️ Books Library
+**React · TypeScript · Redux · Testing**
+
+A frontend project exploring architecture, dependency injection and automated testing.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💻 Currently exploring
+## 🌱 Currently exploring
 
-**AI agents · full-stack TypeScript · NestJS · developer tooling**
+**AI Agents** · **NestJS** · **Full-stack TypeScript** · **Developer Tooling**
 
-### 📫 Let's connect
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/amandanatallie/) · [GitHub](https://github.com/amanda-natallie)
+### 💬 Let's build something interesting.
 
-> *Build useful things. Make them maintainable. Then automate the boring parts.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandanatallie/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/amanda-natallie)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amanda-natallie&style=flat-square&color=8B5CF6" alt="Profile views" />
+
+</div>
