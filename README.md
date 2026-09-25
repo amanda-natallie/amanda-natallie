@@ -26,55 +26,30 @@ I like building products that are:
 
 ---
 
-## 🤖 AI-native engineering
+## 🤖 AI-Native Engineering
 
-I use AI as part of the engineering workflow — not just for autocomplete.
+I use AI as part of my engineering workflow — not just for autocomplete.
 
-**Claude Code · AI agents · MCP · BMAD · custom skills · automation**
+### Beyond using AI
 
-### Built at Clutch
+Before AI became part of my daily workflow, I spent years building the engineering foundations I now bring into AI-assisted development:
 
-At Clutch, I went beyond using AI for code generation and built **production Claude Code skills** to turn recurring engineering workflows into reusable, guided processes.
+- **Frontend Architecture** — scalable React and TypeScript applications, reusable component architecture, and maintainable codebases.
+- **Design Systems** — built reusable component libraries and Design Systems with React, Storybook, Styled Components, and shared packages.
+- **Microfrontends** — worked with Microfrontend architectures and Single-SPA across distributed applications.
+- **Full-Stack Development** — expanded from frontend architecture into Node.js, NestJS, REST, GraphQL, PostgreSQL, and end-to-end product development.
+- **Testing & Quality** — unit, component, and end-to-end testing with Jest, React Testing Library, Cypress, and Playwright.
+- **Performance & UX** — worked on responsive, accessible, performant interfaces and production troubleshooting.
+- **Developer Experience** — established reusable patterns, development standards, tooling, and engineering workflows.
+- **Technical Leadership** — code reviews, mentoring, architecture decisions, and knowledge sharing across engineering teams.
 
-- 🧠 **5 custom Claude Code skills** built and shipped for real engineering workflows.
-- 🔎 **Codebase exploration & debugging** — using AI to trace behavior across frontend and backend code, investigate root causes, and understand unfamiliar areas of the product.
-- 🗄️ **Backend tooling** — created skills around **database querying, observability, Temporal workflows, and Temporal migrations**.
-- ⚛️ **Frontend workflows** — created reusable guidance for frontend implementation, architecture and project-specific conventions.
-- 🔌 **MCP + agentic workflows** — used connected tools and specialized agents to move from investigation → implementation → verification with less manual context switching.
-- 🧪 **AI-assisted testing & verification** — using agents to help reason about edge cases, identify affected areas and validate changes before shipping.
+### Today: AI-Native Engineering
 
-I also worked within the broader **agentic engineering setup at Clutch**, using tools such as Claude Code, MCP and BMAD-style workflows to make AI part of the development process rather than a separate step.
+I use **Claude Code, AI agents, MCP, BMAD, custom skills, and automation** to extend these engineering practices.
 
-\`\`\`text
-             💡 Problem / Requirement
-                       │
-                       ▼
-             🔎 Explore & Understand
-            ┌──────────┴──────────┐
-            │                     │
-        Codebase              Product
-        context               context
-            │                     │
-            └──────────┬──────────┘
-                       ▼
-                🧠 AI-assisted
-             reasoning & planning
-                       │
-                       ▼
-                 🏗️ Design & Code
-                       │
-                       ▼
-                 🧪 Test & Verify
-                       │
-                       ▼
-                 🚀 Ship & Iterate
-\`\`\`
+**Understand → Explore → Reason → Build → Test → Ship → Iterate**
 
-### Why I use AI this way
-
-The goal isn't to generate more code.
-
-It's to **reduce the amount of repetitive context-switching required to solve a problem**, while keeping engineering decisions, validation and ownership with the developer.
+The goal isn't to generate more code. It's to **reduce repetitive work, accelerate exploration, and expand the depth of problems I can investigate independently — while keeping engineering judgment and ownership with the developer.**
 
 ---
 
