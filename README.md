@@ -4,7 +4,8 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
+<img width="1344" height="768" alt="Amanda Natallie's Github" src="https://github.com/user-attachments/assets/d9b3fd18-5b94-461e-8cb4-64506b00682c" />
+
 
 </div>
 
